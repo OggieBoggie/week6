@@ -35,3 +35,7 @@ a[title="BCIT homepage"] {
 img{
     float: left;
 }
+
+.below{
+    clear: left;
+}
