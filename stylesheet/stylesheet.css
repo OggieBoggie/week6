@@ -11,7 +11,7 @@ h2 + p {
     border-bottom: 1px solid gray;
   } */
 
-li a:hover{
+/* li a:hover{
     color:pink
 }
 
@@ -30,4 +30,8 @@ li:first-child::first-letter{
 
 a[title="BCIT homepage"] {
     background-color: yellow;
+} */
+
+img{
+    float: left;
 }
