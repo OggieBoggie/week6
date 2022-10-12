@@ -43,9 +43,10 @@ a[title="BCIT homepage"] {
 .target{
     width: 50px;
     height: 50px;
+    float: right;
     background-color: forestgreen;
 }
 
-.containter {
+.container {
     border: 2px gray solid;
 }
