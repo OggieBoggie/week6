@@ -22,3 +22,12 @@ a:link{
 a:visited{
     color:red
 }
+
+li:first-child::first-letter{
+ font-size: 120%;
+ font-weight: bold;
+}
+
+a:first-child::first-line{
+    background-color: yellow;
+}
