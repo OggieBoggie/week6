@@ -11,15 +11,15 @@ h2 + p {
     border-bottom: 1px solid gray;
   } */
 
-a:hover{
+li a:hover{
     color:pink
 }
 
-a:link{
+li a:link{
     color:green
 }
 
-a:visited{
+li a:visited{
     color:red
 }
 
@@ -28,6 +28,6 @@ li:first-child::first-letter{
  font-weight: bold;
 }
 
-a:first-child::first-line{
+a[title="BCIT homepage"] {
     background-color: yellow;
 }
